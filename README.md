@@ -1,8 +1,17 @@
 # Portfolio-project
 # Brian Oichoe Portfolio
 
-## Overview
+Welcome to my personal portfolio website! This project showcases my skills, experience, and projects as a Frontend Developer.
+
+🔗 Live Demo
+
+Check out the live version of my portfolio here:
+
+🔗 Deployed on Netlify: Visit Portfolio
+
+📌 Project Overview
 This is my personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer. The website is built using HTML, CSS, and JavaScript, and includes a responsive design to provide an optimal viewing experience on all devices.
+
 
 ## Features
 - **About Section**: A brief introduction about me, including my education and experience.
