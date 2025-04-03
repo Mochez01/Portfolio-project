@@ -3,29 +3,38 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects as a Frontend Developer.
 
-🔗 Live Demo
+## 🔗 Live Demo
 
 Check out the live version of my portfolio here:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://quiet-tapioca-344d8f.netlify.app/)
 
-🔗 Deployed on Netlify: Visit Portfolio
+🔗 **Deployed on Netlify:** [Visit Portfolio](https://quiet-tapioca-344d8f.netlify.app/)
 
-📌 Project Overview
-This is my personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer. The website is built using HTML, CSS, and JavaScript, and includes a responsive design to provide an optimal viewing experience on all devices.
+---
+
+## 📌 Project Overview
+This portfolio is designed to highlight my expertise in frontend development, including my experience with various technologies, projects, and contact information.
+
+---
+
+### 🌟 Features
+- **Responsive Design:** Optimized for all screen sizes.
+- **Interactive Navigation:** Includes a desktop and mobile-friendly menu.
+- **Projects Showcase:** Displays my recent projects with links to repositories.
+- **Contact Section:** Provides easy access to reach me via email and LinkedIn.
+
+---
+
+## 🛠️ Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+- **Styling Frameworks:** CSS Media Queries for responsiveness
+- **Version Control:** Git & GitHub
+- **Deployment:** Netlify
 
 
-## Features
-- **About Section**: A brief introduction about me, including my education and experience.
-- **Experience Section**: Displays my technical skills in frontend and backend development.
-- **Projects Section**: Highlights some of my recent projects with descriptions and links to GitHub repositories and live demos.
-- **Contact Section**: Provides my email and LinkedIn for professional inquiries.
-- **Responsive Design**: The website is optimized for both desktop and mobile devices.
+---
 
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend (For Projects)**: MySQL, Python, Node.js
-- **Version Control**: Git and GitHub
-
-## Getting Started
+## 🚀 Getting Started
 To run this project locally:
 1. Clone the repository:
    ```bash
@@ -60,7 +69,9 @@ To run this project locally:
 - Add animations and interactive elements to improve user engagement.
 - Optimize the website further for SEO and performance.
 
-## Connect with Me
+---
+
+## 📞 Connect with Me
 - **GitHub**: [Mochez01](https://github.com/Mochez01)
 - **LinkedIn**: [Brian Oichoe](https://www.linkedin.com/in/brian-oichoe)
 - **Email**: [brianoichoe99@gmail.com](mailto:brianoichoe99@gmail.com)
